@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Error 1: Root element name is Hotel, instead of Hotels -->
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+       xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <!-- Error 2: Required attribute Rating is missing -->
+  <Hotel>
+    <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
+    <Phone>602-225-9000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2000</Number>
+      <Street>W Westcourt Way</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Hyatt Regency Phoenix</Name>
+    <!-- Error 3: Phone element is missing -->
+    <Address>
+      <Number>122</Number>
+      <Street>N 2nd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.8">
+    <Name>Aloft Tempe</Name>
+    <Phone>480-621-3300</Phone>
+    <!-- Error 4: Address element has no closing tag -->
+    <Address NearestAirport="Sky Harbor">
+      <Number>951</Number>
+      <Street>E Playa Del Norte Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <!-- Error 5: Two names are provided for one hotel -->
+    <Name>Arizona Grand Resort &amp; Spa</Name>
+    <Name>Arizona Luxury Resort</Name>
+    <Phone>602-438-9000</Phone>
+    <Phone>877-800-4888</Phone>
+    <Address>
+      <Number>8000</Number>
+      <Street>Arizona Grand Pkwy</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85044</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.7">
+    <Name>The Phoenician</Name>
+    <Phone>480-941-8200</Phone>
+    <Phone>800-888-8234</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>6000</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+</Hotel>
