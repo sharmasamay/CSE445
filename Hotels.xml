@@ -7,7 +7,7 @@
     <Phone>800-937-8461</Phone>
     <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Street>E.7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -136,5 +136,5 @@
       <Zip>85018</Zip>
     </Address>
   </Hotel>
-  
+
 </Hotels>
