@@ -4,7 +4,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -15,7 +15,7 @@
   <Hotel Rating="4.5">
     <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
     <Phone>602-225-9000</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2000</Number>
       <Street>W Westcourt Way</Street>
       <City>Tempe</City>
@@ -26,7 +26,7 @@
   <Hotel Rating="4.0">
     <Name>Hyatt Regency Phoenix</Name>
     <Phone>602-252-1234</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>122</Number>
       <Street>N 2nd St</Street>
       <City>Phoenix</City>
@@ -37,7 +37,7 @@
   <Hotel Rating="3.8">
     <Name>Aloft Tempe</Name>
     <Phone>480-621-3300</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>951</Number>
       <Street>E Playa Del Norte Dr</Street>
       <City>Tempe</City>
@@ -49,7 +49,7 @@
     <Name>Arizona Grand Resort &amp; Spa</Name>
     <Phone>602-438-9000</Phone>
     <Phone>877-800-4888</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>8000</Number>
       <Street>Arizona Grand Pkwy</Street>
       <City>Phoenix</City>
@@ -61,7 +61,7 @@
     <Name>The Phoenician</Name>
     <Phone>480-941-8200</Phone>
     <Phone>800-888-8234</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>6000</Number>
       <Street>E Camelback Rd</Street>
       <City>Scottsdale</City>
@@ -72,7 +72,7 @@
   <Hotel Rating="3.9">
     <Name>DoubleTree by Hilton Phoenix Tempe</Name>
     <Phone>480-967-1441</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2100</Number>
       <Street>S Priest Dr</Street>
       <City>Tempe</City>
@@ -83,7 +83,7 @@
   <Hotel Rating="4.4">
     <Name>Hotel Valley Ho</Name>
     <Phone>480-376-2600</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>6850</Number>
       <Street>E Main St</Street>
       <City>Scottsdale</City>
@@ -94,7 +94,7 @@
   <Hotel Rating="4.1">
     <Name>Canopy by Hilton Tempe Downtown</Name>
     <Phone>480-968-6800</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>108</Number>
       <Street>E University Dr</Street>
       <City>Tempe</City>
@@ -105,7 +105,7 @@
   <Hotel Rating="3.7">
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>225</Number>
       <Street>E Apache Blvd</Street>
       <City>Tempe</City>
@@ -117,7 +117,7 @@
     <Name>Royal Palms Resort and Spa</Name>
     <Phone>602-840-3610</Phone>
     <Phone>866-579-3637</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>5200</Number>
       <Street>E Camelback Rd</Street>
       <City>Phoenix</City>

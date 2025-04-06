@@ -15,7 +15,7 @@
 
     <!-- Address Element -->
     <!ELEMENT Address (Number, Street, City, State, Zip)>
-    <!ATTLIST Address NearestAirport CDATA #REQUIRED>
+    <!ATTLIST Address NearstAirport CDATA #REQUIRED>
 
     <!-- Address Sub-Elements -->
     <!ELEMENT Number (#PCDATA)>
