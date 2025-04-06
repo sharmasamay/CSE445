@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
+
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -12,6 +13,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.5">
     <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
     <Phone>602-225-9000</Phone>
@@ -23,6 +25,7 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.0">
     <Name>Hyatt Regency Phoenix</Name>
     <Phone>602-252-1234</Phone>
@@ -34,6 +37,7 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="3.8">
     <Name>Aloft Tempe</Name>
     <Phone>480-621-3300</Phone>
@@ -45,6 +49,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.3">
     <Name>Arizona Grand Resort &amp; Spa</Name>
     <Phone>602-438-9000</Phone>
@@ -57,6 +62,7 @@
       <Zip>85044</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.7">
     <Name>The Phoenician</Name>
     <Phone>480-941-8200</Phone>
@@ -69,6 +75,7 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="3.9">
     <Name>DoubleTree by Hilton Phoenix Tempe</Name>
     <Phone>480-967-1441</Phone>
@@ -80,6 +87,7 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.4">
     <Name>Hotel Valley Ho</Name>
     <Phone>480-376-2600</Phone>
@@ -91,6 +99,7 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.1">
     <Name>Canopy by Hilton Tempe Downtown</Name>
     <Phone>480-968-6800</Phone>
@@ -102,6 +111,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="3.7">
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
@@ -113,6 +123,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.6">
     <Name>Royal Palms Resort and Spa</Name>
     <Phone>602-840-3610</Phone>
@@ -125,4 +136,5 @@
       <Zip>85018</Zip>
     </Address>
   </Hotel>
+  
 </Hotels>

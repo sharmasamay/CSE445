@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Error 1: Root element name is Hotel, instead of Hotels -->
-<Hotels>
+<Hotel>
+
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -13,6 +14,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+
   <!-- Error 2: Required attribute Rating is missing -->
   <Hotel>
     <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
@@ -25,6 +27,7 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.0">
     <Name>Hyatt Regency Phoenix</Name>
     <!-- Error 3: Phone element is missing -->
@@ -36,6 +39,7 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="3.8">
     <Name>Aloft Tempe</Name>
     <Phone>480-621-3300</Phone>
@@ -47,6 +51,7 @@
       <State>AZ</State>
       <Zip>85281</Zip>
   </Hotel>
+
   <Hotel Rating="4.3">
     <!-- Error 5: Two names are provided for one hotel -->
     <Name>Arizona Grand Resort &amp; Spa</Name>
@@ -61,6 +66,7 @@
       <Zip>85044</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.7">
     <Name>The Phoenician</Name>
     <Phone>480-941-8200</Phone>
@@ -73,4 +79,5 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
+  
 </Hotel>
